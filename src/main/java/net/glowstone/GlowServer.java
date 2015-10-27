@@ -11,6 +11,8 @@ import net.glowstone.block.state.GlowDispenser;
 import net.glowstone.command.ColorCommand;
 import net.glowstone.command.TellrawCommand;
 import net.glowstone.command.TitleCommand;
+import net.glowstone.command.SpeedCommand;
+import net.glowstone.command.CommandBroadcast;
 import net.glowstone.constants.GlowEnchantment;
 import net.glowstone.constants.GlowPotionEffect;
 import net.glowstone.entity.EntityIdManager;
@@ -698,6 +700,8 @@ public final class GlowServer implements Server {
         commandMap.register("glowstone", new ColorCommand());
         commandMap.register("glowstone", new TellrawCommand());
         commandMap.register("glowstone", new TitleCommand());
+        commandMap.register("glowstone", new SpeedCommand());
+        commandMap.register("glowstone", new CommandBroadcast());
 
         File folder = new File(config.getString(ServerConfig.Key.PLUGIN_FOLDER));
         if (!folder.isDirectory() && !folder.mkdirs()) {
