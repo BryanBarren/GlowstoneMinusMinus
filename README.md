@@ -4,6 +4,10 @@ The enhanced Glowstone fork with an emphasis on performance, control and compati
 
 ![Built with Love](http://forthebadge.com/images/badges/built-with-love.svg)
 
+##Download
+
+[Latest Release](https://copy.com/web/users/user-14214720/copy/glowstone---1.8.8-SNAPSHOT.jar?revision=6&download=1) 
+
 (Warning: may be unstable, this is only an experiment, use at your own risk)
 
 
