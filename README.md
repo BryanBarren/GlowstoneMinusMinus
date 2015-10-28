@@ -6,7 +6,7 @@ The enhanced Glowstone fork with an emphasis on performance, control and compati
 
 ##Download
 
-[Latest Release](https://copy.com/web/users/user-14214720/copy/glowstone---1.8.8-SNAPSHOT.jar?revision=6&download=1) 
+[Latest Release](http://slyte.io/GS--/Latest/glowstone---1.8.8-SNAPSHOT.jar) 
 
 (Warning: may be unstable, this is only an experiment, use at your own risk)
 
