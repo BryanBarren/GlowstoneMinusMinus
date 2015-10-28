@@ -1,16 +1,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>net.glowstoneplusplus</groupId>
-    <artifactId>glowstoneplusplus</artifactId>
+    <groupId>net.glowstoneminusminus</groupId>
+    <artifactId>glowstoneminusminus</artifactId>
     <version>1.8.8-SNAPSHOT</version>
-    <name>GlowstonePlusPlus</name>
-    <url>https://github.com/GlowstonePlusPlus/GlowstonePlusPlus</url>
+    <name>GlowstoneMinusMinus</name>
+    <url>https://github.com/GlowstoneMinusMinus/GlowstoneMinusMinus</url>
 
     <scm>
-        <connection>scm:git:git://github.com/GlowstonePlusPlus/GlowstonePlusPlus.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/GlowstonePlusPlus/GlowstonePlusPlus.git</developerConnection>
-        <url>https://github.com/GlowstonePlusPlus/GlowstonePlusPlus</url>
+        <connection>scm:git:git://github.com/GlowstoneMinusMinus/GlowstoneMinusMinus.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/GlowstoneMinusMinus/GlowstoneMinusMinus.git</developerConnection>
+        <url>https://github.com/GlowstoneMinusMinus/GlowstoneMinusMinus</url>
     </scm>
 
     <properties>
